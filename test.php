@@ -1,3 +1,3 @@
 <?php
-echo 'asdsada-t3';
+echo 'asdsada-test';
 
